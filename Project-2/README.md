@@ -1,12 +1,26 @@
-# React + Vite
+# 📞 Contact Us Page - Project 2/10
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React contact page with multiple contact options (form, email, chat). Built with modern frontend practices.
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000?logo=vercel&style=for-the-badge)](https://contact-page-demo.vercel.app)
+[![GitHub Code](https://img.shields.io/badge/GitHub-Code-black?logo=github&style=for-the-badge)](https://github.com/Muhammad-Muzzamal/contact-page-react)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Contact Page Preview](./assets/contact-preview.png)
 
-## Expanding the ESLint configuration
+## ✨ Features
+- **Multi-channel contact options** (form, email, chat mock)
+- **Form validation** with error handling
+- **Responsive design** (mobile, tablet, desktop)
+- **Reusable components** (Button, Input, Card)
+- **State management** with React hooks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend**: React 18 + Vite
+- **Styling**: CSS Modules
+- **Form Handling**: React Hook Form
+- **Deployment**: Vercel
+
+## 🚀 Installation
+1. Clone repo:
+   ```bash
+   git clone https://github.com/Muhammad-Muzzamal/contact-page-react.git
