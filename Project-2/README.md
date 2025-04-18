@@ -1,26 +1,30 @@
-# 📞 Contact Us Page - Project 2/10
+# Contact Interface Module | React Project
 
-A responsive React contact page with multiple contact options (form, email, chat). Built with modern frontend practices.
+**Project 2/10** · [#10ReactProjects Challenge](https://github.com/Muhammad-Muzzamal/10-react-projects)  
+**Status**: Development v1.0.0 | ![GitHub last commit](https://img.shields.io/github/last-commit/Muhammad-Muzzamal/contact-page-react?label=Last%20Update)
 
-[![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000?logo=vercel&style=for-the-badge)](https://contact-page-demo.vercel.app)
-[![GitHub Code](https://img.shields.io/badge/GitHub-Code-black?logo=github&style=for-the-badge)](https://github.com/Muhammad-Muzzamal/contact-page-react)
+![Contact Module Preview](./assets/contact-preview.webp)  
+*Fig 1. Component architecture overview*
 
-![Contact Page Preview](./assets/contact-preview.png)
+## Technical Specifications
 
-## ✨ Features
-- **Multi-channel contact options** (form, email, chat mock)
-- **Form validation** with error handling
-- **Responsive design** (mobile, tablet, desktop)
-- **Reusable components** (Button, Input, Card)
-- **State management** with React hooks
+### Core Features
+- **Modular Contact System**
+  - Form submission handler with validation
+  - Mock service integrations (chat/email)
+  - Responsive layout engine
 
-## 🛠️ Tech Stack
-- **Frontend**: React 18 + Vite
-- **Styling**: CSS Modules
-- **Form Handling**: React Hook Form
-- **Deployment**: Vercel
+- **Performance Optimizations**
+  - Code-split components
+  - Lazy-loaded assets
+  - Memoized form components
 
-## 🚀 Installation
-1. Clone repo:
-   ```bash
-   git clone https://github.com/Muhammad-Muzzamal/contact-page-react.git
+### Tech Stack
+| Layer          | Technology              |
+|----------------|-------------------------|
+| Framework      | React 18 (TypeScript)   |
+| Build Tool     | Vite 4                  |
+| Styling        | CSS Modules + PostCSS   |
+| State          | useReducer + Context    |
+
+## Development Guide
