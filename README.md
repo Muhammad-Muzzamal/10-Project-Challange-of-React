@@ -1,6 +1,6 @@
 # 🚀 10 React Projects Challenge
 
-**Hi there! 👋 I'm Muzzamal**, a Frontend Developer with 1.5 years of experience passionate about building interactive web applications with React. This repository documents my **#10ProjectsChallenge** journey—where I build 10 React projects from foundational to advanced concepts to level up my skills.
+**Hi there! 👋 I'm Muzzamal**, a Frontend Developer with 1.5 years of experience, passionate about building interactive web applications with React. This repository documents my **#10ProjectsChallenge** journey—where I build 10 React projects from foundational to advanced concepts to level up my skills.
 
 ---
 
@@ -16,7 +16,7 @@
 | #  | Project                     | Key Tech & Concepts                          | Status       |  
 |----|-----------------------------|-----------------------------------------------|--------------|  
 | 1  | Brand Page                  | React basics, responsive layout              | ✅ Completed |  
-| 2  | [Contact Us Page](https://github.com/Muhammad-Muzzamal/10-Project-Challange-of-React/Project-2) | Form handling, reusable components | ✅ Completed |  
+| 2  | Contact Us Page             | Form handling, reusable components           | ✅ Completed |  
 | 3  | Dice Game                   | DOM manipulation, randomizers               | ⏳ In Progress |  
 | 4  | Foody Zone                  | API fetching, search filters                | ❌ Pending   |  
 | 5  | Firebase Contact App (CRUD) | Firebase integration, real-time updates     | ❌ Pending   |  
@@ -40,8 +40,7 @@
 
 ## 🌱 Follow My Progress  
 1. **Code**: [GitHub](https://github.com/Muhammad-Muzzamal)  
-2. **LinkedIn**: [Let's connect!](http://www.linkedin.com/in/muhammad-muzzamal-846117289)  
-3. **Live Demos**: Check project folders for deployment links  
+2. **LinkedIn**: [Let's connect!](http://www.linkedin.com/in/muhammad-muzzamal-846117289)   
 
 ---
 
@@ -60,7 +59,3 @@
 
 --- 
 
-### 📜 License  
-MIT © [Muhammad Muzzamal](https://github.com/Muhammad-Muzzamal)  
-
-> **Tip**: Click project names for code. Screenshots in each project's `README.md`!
