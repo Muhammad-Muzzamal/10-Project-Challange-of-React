@@ -1,10 +1,5 @@
-# Contact Interface Module | React Project
+# CONTACT US  | React Project 2/10
 
-**Project 2/10** · [#10ReactProjects Challenge](https://github.com/Muhammad-Muzzamal/10-react-projects)  
-**Status**: Development v1.0.0 | ![GitHub last commit](https://img.shields.io/github/last-commit/Muhammad-Muzzamal/contact-page-react?label=Last%20Update)
-
-![Contact Module Preview](./assets/contact-preview.webp)  
-*Fig 1. Component architecture overview*
 
 ## Technical Specifications
 
@@ -27,4 +22,3 @@
 | Styling        | CSS Modules + PostCSS   |
 | State          | useReducer + Context    |
 
-## Development Guide
