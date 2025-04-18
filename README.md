@@ -16,7 +16,7 @@
 | #  | Project                     | Key Tech & Concepts                          | Status       |  
 |----|-----------------------------|-----------------------------------------------|--------------|  
 | 1  | Brand Page                  | React basics, responsive layout              | ✅ Completed |  
-| 2  | [Contact Us Page](https://github.com/Muhammad-Muzzamal/contact-page-react) | Form handling, reusable components | ✅ Completed |  
+| 2  | [Contact Us Page](https://github.com/Muhammad-Muzzamal/10-Project-Challange-of-React/Project-2) | Form handling, reusable components | ✅ Completed |  
 | 3  | Dice Game                   | DOM manipulation, randomizers               | ⏳ In Progress |  
 | 4  | Foody Zone                  | API fetching, search filters                | ❌ Pending   |  
 | 5  | Firebase Contact App (CRUD) | Firebase integration, real-time updates     | ❌ Pending   |  
